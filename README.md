@@ -14,7 +14,7 @@
 
 ### Вторая домашняя работа
 - [Задание](https://github.com/adzhumurat/data_management/blob/master/jupyter_notebooks/II_machine_learning_intro_hw.ipynb)
-- [Решение](../master/jupyter/II_machine_learning_intro_hw.ipynb)
+- [Решение](../master/II_machine_learning_intro_hw.ipynb)
 
 
 ### Третья домашняя работа
