@@ -24,7 +24,7 @@
 
 ### Четвертая домашняя работа
 - [Задание](https://github.com/adzhumurat/data_management/blob/master/jupyter_notebooks/IV_machine_learning_unsupervised_hw.ipynb)
-- [Решение](../master/jupyter/IV_machine_learning_unsupervised_hw.ipynb)
+- [Решение](../master/IV_machine_learning_unsupervised_hw.ipynb)
 
 
 ### Пятая домашняя работа
