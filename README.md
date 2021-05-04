@@ -19,7 +19,7 @@
 
 ### Третья домашняя работа
 - [Задание](https://github.com/adzhumurat/data_management/blob/master/jupyter_notebooks/III_machine_learning_supervised_hw.ipynb)
-- [Решение](../master/jupyter/III_machine_learning_supervised_hw.ipynb)
+- [Решение](../master/III_machine_learning_supervised_hw.ipynb)
 
 
 ### Четвертая домашняя работа
