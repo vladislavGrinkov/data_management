@@ -9,7 +9,7 @@
 ### Домашняя работа по Байесовскому классификатору
 
 - [Задание](https://github.com/adzhumurat/data_management/blob/master/jupyter_notebooks/I_probability_hw_2_naive_bayes.ipynb)
-- [Решение](../master/jupyter/naive_bayes_classifier.ipynb)
+- [Решение](../master/naive_bayes_classifier.ipynb)
 
 
 ### Вторая домашняя работа
