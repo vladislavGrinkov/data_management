@@ -3,7 +3,7 @@
 ### Первая домашняя работа
 
 - [Задание](https://github.com/adzhumurat/data_management/blob/master/jupyter_notebooks/I_probability_hw_1_proba.ipynb)
-- [Решение](../master/jupyter/I_probability_hw_1_proba.ipynb)
+- [Решение](../master/hw_1_proba.ipynb)
 
 
 ### Домашняя работа по Байесовскому классификатору
